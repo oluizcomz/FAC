@@ -20,5 +20,5 @@ M09(desliga fluido)
 G00 Z0 M05(muda para x =0 edeliga rotação)
 
 
-M06  T1
+M06  T2
 G00 X43,5 Y98,5 Z0
